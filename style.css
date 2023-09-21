@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    line-height: 7px;
+    background-color: rgb(242, 239, 143);
+}
+
+header {
+    margin-bottom: 45px;
+}
+
+.first-verse {
+    margin-bottom: 30px;
+}
+
+.ref {
+    margin-bottom: 30px;
+}
+
+.second-verse {
+    margin-bottom: 30px;
+}
+
+.info {
+    margin-top: 45px;
+    margin-bottom: 30px;
+}
